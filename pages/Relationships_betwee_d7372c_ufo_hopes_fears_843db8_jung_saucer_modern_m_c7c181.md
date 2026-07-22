@@ -381,7 +381,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
           <a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
         <p class="fr-book-author">By Carl Gustav Jung</p>
-        
+
         <p class="fr-book-desc">The page centers on Jung&#x27;s interpretation of flying saucers as modern myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
           <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
         </h4>
         <p class="fr-book-author">By Carl G. Jung</p>
-        
+
         <p class="fr-book-desc">Explains symbols, archetypes and collective meaning behind Jung&#x27;s UFO analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
           <a href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archetypes and the Collective Unconscious">The Archetypes and the Collective Unconscious</a>
         </h4>
         <p class="fr-book-author">By C. G. Jung</p>
-        
+
         <p class="fr-book-desc">Provides the theoretical framework behind modern myth interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,16 +426,16 @@ Within the broader relationship between UFOs and science fiction, this insight i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+the+Eternal+Return+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of the Eternal Return on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j4aMEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of the Eternal Return" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+the+Eternal+Return+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of the Eternal Return">The Myth of the Eternal Return</a>
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
-        <p class="fr-book-author">By Mircea Eliade</p>
-        
-        <p class="fr-book-desc">Explores how societies use mythic structures to process uncertainty.</p>
+        <p class="fr-book-author">By Jacques Vallee</p>
+
+        <p class="fr-book-desc">Connects UFO reports to mythic and folkloric patterns.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+the+Eternal+Return+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

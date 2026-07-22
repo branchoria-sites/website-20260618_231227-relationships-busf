@@ -351,10 +351,27 @@ His actual claim was therefore narrower and more careful than many later interpr
           <a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
         <p class="fr-book-author">By Carl Gustav Jung</p>
-        
+
         <p class="fr-book-desc">Directly addresses Jung&#x27;s views on UFOs, modern myth, symbolism, and the question of physical versus psychological reality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth and Mystery of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8h-jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth and Mystery of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth and Mystery of UFOs">The Myth and Mystery of UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Thomas E. Bullard</p>
+
+        <p class="fr-book-desc">Examines UFOs as modern folklore and myth, closely paralleling the cultural questions Jung explored.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -368,7 +385,7 @@ His actual claim was therefore narrower and more careful than many later interpr
           <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
         </h4>
         <p class="fr-book-author">By Carl G. Jung</p>
-        
+
         <p class="fr-book-desc">Provides the symbolic and archetypal framework needed to understand Jung&#x27;s interpretation of UFO reports as meaningful psychic phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +402,7 @@ His actual claim was therefore narrower and more careful than many later interpr
           <a href="https://www.amazon.com/s?k=The+Undiscovered+Self+C.G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Undiscovered Self">The Undiscovered Self</a>
         </h4>
         <p class="fr-book-author">By C.G. Jung</p>
-        
+
         <p class="fr-book-desc">Explores mass psychology, modern society, and collective anxieties that overlap with Jung&#x27;s analysis of the UFO phenomenon.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Undiscovered+Self+C.G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,26 +411,9 @@ His actual claim was therefore narrower and more careful than many later interpr
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jung+Anthony+Stevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jung on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cI8aUoloUkUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Jung" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jung+Anthony+Stevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jung">Jung</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Stevens</p>
-        
-        <p class="fr-book-desc">Helps readers understand Jung&#x27;s core concepts, including archetypes, the collective unconscious, and mythic symbolism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jung+Anthony+Stevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Undiscovered+Self&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Undiscovered Self</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth and Mystery of UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

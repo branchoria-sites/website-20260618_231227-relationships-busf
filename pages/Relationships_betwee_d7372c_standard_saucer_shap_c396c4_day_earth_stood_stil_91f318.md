@@ -362,7 +362,7 @@ Within the broader relationship between UFOs and science fiction, this was a cru
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides background on the UFO culture that informed 1950s science-fiction films.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Within the broader relationship between UFOs and science fiction, this was a cru
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
         </h4>
         <p class="fr-book-author">By Jacques Vallee</p>
-        
+
         <p class="fr-book-desc">Explores the cultural meanings attached to UFO imagery and narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Within the broader relationship between UFOs and science fiction, this was a cru
           <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
         </h4>
         <p class="fr-book-author">By Donald E. Keyhoe</p>
-        
+
         <p class="fr-book-desc">Reflects the cultural environment in which the film&#x27;s saucer imagery emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,16 +407,16 @@ Within the broader relationship between UFOs and science fiction, this was a cru
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day the Earth Stood Still &amp; Other SF Classics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+Arthur+Tofte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day the Earth Stood Still on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still &amp; Other SF Classics">The Day the Earth Stood Still &amp; Other SF Classics</a>
+          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+Arthur+Tofte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still">The Day the Earth Stood Still</a>
         </h4>
-        <p class="fr-book-author">By Harry Bates</p>
-        
+        <p class="fr-book-author">By Arthur Tofte</p>
+
         <p class="fr-book-desc">Provides the story foundation behind the film discussed on the page.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+Arthur+Tofte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
