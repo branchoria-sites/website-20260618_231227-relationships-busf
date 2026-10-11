@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /relationships-betwee/
 - /unidentified/
 nav_short_title: Unresolved Cases
-title: Why Unresolved Does Not Mean Alien
-title_full: Why Unresolved Does Not Mean Alien
+title: "Why Unresolved Does Not Mean Alien (unresolved cases)"
+title_full: "Why Unresolved Does Not Mean Alien (unresolved cases)"
 display_title_short: Unresolved Cases
 display_title: Unresolved Cases
 heading_title: Why Unresolved Does Not Mean Alien

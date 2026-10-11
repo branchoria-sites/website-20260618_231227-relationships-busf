@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /relationships-betwee/
 - /uap-language/
 nav_short_title: Unresolved Gaps
-title: Why Unresolved Does Not Mean Alien
-title_full: Why Unresolved Does Not Mean Alien
+title: "Why Unresolved Does Not Mean Alien (unresolved gaps)"
+title_full: "Why Unresolved Does Not Mean Alien (unresolved gaps)"
 display_title_short: Unresolved Gaps
 display_title: Unresolved Gaps
 heading_title: Why Unresolved Does Not Mean Alien
