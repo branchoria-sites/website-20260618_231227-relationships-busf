@@ -813,7 +813,6 @@ Roswell therefore became more than a disputed debris recovery. It became a model
 13.<a id="endnote-13"></a>
    Source: disclosurearchives.com  
    Title: fbi flying disc master file 1947 1968  
-   Link:https://disclosurearchives.com/events/fbi-flying-disc-master-file  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI 62-HQ-83894: the master &#x27;flying disc&#x27; file, 1947–1968 · Disclosure Archives...</p></details>
 
 14.<a id="endnote-14"></a>

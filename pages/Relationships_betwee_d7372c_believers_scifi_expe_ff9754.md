@@ -1106,7 +1106,6 @@ Within the broader relationship between UFOs and science fiction, believers occu
 
 40.<a id="endnote-40"></a>
    Source: ebsco.com  
-   Link:https://www.ebsco.com/articles/social-sciences-and-humanities/ce111f6e-c6e0-5d8b-b0b8-dc2607cdbb55/after-the-flying-saucers-came-a-global-history-of-the-ufo-phenomenon  
 
 41.<a id="endnote-41"></a>
    Source: amazon.it  

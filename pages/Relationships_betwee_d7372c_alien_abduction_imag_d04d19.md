@@ -1017,7 +1017,6 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
 17.<a id="endnote-17"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 
 18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
