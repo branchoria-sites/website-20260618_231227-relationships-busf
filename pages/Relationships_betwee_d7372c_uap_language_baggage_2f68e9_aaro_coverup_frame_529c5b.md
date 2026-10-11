@@ -777,7 +777,6 @@ Within the broader relationship between UFO culture and science fiction, this is
 
 7.<a id="endnote-7"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO HRR Vol I, Wikimedia Mirror, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO TransparencyMarch 8, 2024...</p></details>
    Published: March 8, 2024  
 

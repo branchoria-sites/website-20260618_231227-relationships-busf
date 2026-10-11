@@ -764,7 +764,6 @@ For the broader relationship between UFOs and science fiction, this was a crucia
 3.<a id="endnote-3"></a>
    Source: rocketcenter.com  
    Title: Aircraft: A-12, Article 127, Oxcart | U.S. Space & Rocket Center  
-   Link:https://www.rocketcenter.com/tour/ac/A12Oxcart  
 
 4.<a id="endnote-4"></a>
    Source: history.com  
