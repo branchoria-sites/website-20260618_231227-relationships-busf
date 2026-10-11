@@ -770,7 +770,7 @@ The Air Force therefore shaped more than individual case outcomes. By systematic
 
 6.<a id="endnote-6"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparency...</p></details>
 
 7.<a id="endnote-7"></a>
