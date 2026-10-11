@@ -762,7 +762,7 @@ The result is a distinctive cultural mechanism: secrecy ceases to be merely a la
 
 9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO HRR Vol I, Wikimedia Mirror, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO Transparency...</p></details>
 
 ### Additional References
